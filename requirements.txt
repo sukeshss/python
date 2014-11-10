@@ -1,0 +1,14 @@
+Flask==0.10.1
+python-memcached==1.53
+cassandra-driver==2.1.1
+raven==5.1.0
+blinker==1.3
+simple-pbkdf2==1.0
+nose==1.3.4
+straight.plugin==1.4.0-post-1
+geopy==1.3.0
+numpy==1.8.1
+scikit-learn==0.15.2
+scipy==0.14.0
+pandas==0.14.1
+python-gmaps==0.2.0
